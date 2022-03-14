@@ -1,0 +1,7 @@
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——正常登录****
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：初始化浏览器对话，登录前程贷系统(setUp)====
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——正常登录****
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====

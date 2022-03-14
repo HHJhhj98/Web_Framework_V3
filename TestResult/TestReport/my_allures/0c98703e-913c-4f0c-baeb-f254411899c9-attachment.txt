@@ -1,0 +1,13 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：用例开始执行(setUP)====
+[32mINFO    [0m hhj:my_log.py:39 ****异常用例——异常投资 - 非100的整数倍_28****
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作等待元素('css selector', '.pd-right>button')可见
+[32mINFO    [0m hhj:my_log.py:39 ('css selector', '.pd-right>button')元素等待结束，等待时长为：0:00:00.020335毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作_('xpath', '//input[contains(@placeholder,"可用余额:")]')元素中输入文本：28.00
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作中查看('css selector', '.pd-right>button')元素的点击状态
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_页面投标按钮上提示信息等待元素('css selector', '.pd-right>button')可见
+[32mINFO    [0m hhj:my_log.py:39 ('css selector', '.pd-right>button')元素等待结束，等待时长为：0:00:00.019346毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_页面投标按钮上提示信息查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_页面投标按钮上提示信息中获取('css selector', '.pd-right>button')元素的文本
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：用例执行完毕，刷新界面(teardown)====

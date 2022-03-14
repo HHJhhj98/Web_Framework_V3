@@ -1,0 +1,35 @@
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：初始化浏览器对话，登录前程贷系统(setUp)====
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——正常投资****
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能等待元素('xpath', '//button[text()="登录"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.043648毫秒
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+[32mINFO    [0m hhj:my_log.py:39 首页_选第一个标等待元素('xpath', '//a[text()="抢投标"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//a[text()="抢投标"]')元素等待结束，等待时长为：0:00:01.683268毫秒
+[32mINFO    [0m hhj:my_log.py:39 首页_选第一个标查找多个元素：('xpath', '//a[text()="抢投标"]')
+[32mINFO    [0m hhj:my_log.py:39 首页_选第一个标_点击元素：('xpath', '//a[text()="抢投标"]')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_获取用户余额等待元素('xpath', '//input[contains(@placeholder,"可用余额:")]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//input[contains(@placeholder,"可用余额:")]')元素等待结束，等待时长为：0:00:00.029265毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_获取用户余额查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_获取用户余额中获取('xpath', '//input[contains(@placeholder,"可用余额:")]')元素_data-amount的属性值
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作等待元素('css selector', '.pd-right>button')可见
+[32mINFO    [0m hhj:my_log.py:39 ('css selector', '.pd-right>button')元素等待结束，等待时长为：0:00:00.021825毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作_('xpath', '//input[contains(@placeholder,"可用余额:")]')元素中输入文本：100.00
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作中查看('css selector', '.pd-right>button')元素的点击状态
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作_点击元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资成功的提示框_点击查看激活等待元素('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')可见
+[32mINFO    [0m hhj:my_log.py:39 ('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')元素等待结束，等待时长为：0:00:00.542042毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资成功的提示框_点击查看激活查找元素：('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资成功的提示框_点击查看激活_点击元素：('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')
+[32mINFO    [0m hhj:my_log.py:39 个人页面_获取可用金额等待元素('xpath', '//li[@class="color_sub"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//li[@class="color_sub"]')元素等待结束，等待时长为：0:00:00.031248毫秒
+[32mINFO    [0m hhj:my_log.py:39 个人页面_获取可用金额查找元素：('xpath', '//li[@class="color_sub"]')
+[32mINFO    [0m hhj:my_log.py:39 在个人页面_获取可用金额中获取('xpath', '//li[@class="color_sub"]')元素的文本
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====

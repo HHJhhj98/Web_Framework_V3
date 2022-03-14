@@ -1,0 +1,135 @@
+2022-03-02 22:01:38,248-INFO-my_log.py-hhj-日志信息：====所有用例的前置操作：初始化浏览器对话，登录前程贷系统(setUp)====
+2022-03-02 22:01:42,632-INFO-my_log.py-hhj-日志信息：****正常用例——正常登录****
+2022-03-02 22:01:42,632-INFO-my_log.py-hhj-日志信息：****正常用例——正常登录****
+2022-03-02 22:01:42,633-INFO-my_log.py-hhj-日志信息：登录页面_登录功能等待元素('xpath', '//button[text()="登录"]')可见
+2022-03-02 22:01:42,633-INFO-my_log.py-hhj-日志信息：登录页面_登录功能等待元素('xpath', '//button[text()="登录"]')可见
+2022-03-02 22:01:42,633-INFO-my_log.py-hhj-日志信息：登录页面_登录功能等待元素('xpath', '//button[text()="登录"]')可见
+2022-03-02 22:01:42,667-INFO-my_log.py-hhj-日志信息：('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.032738毫秒
+2022-03-02 22:01:42,667-INFO-my_log.py-hhj-日志信息：('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.032738毫秒
+2022-03-02 22:01:42,667-INFO-my_log.py-hhj-日志信息：('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.032738毫秒
+2022-03-02 22:01:42,667-INFO-my_log.py-hhj-日志信息：('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.032738毫秒
+2022-03-02 22:01:42,668-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+2022-03-02 22:01:42,668-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+2022-03-02 22:01:42,668-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+2022-03-02 22:01:42,668-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+2022-03-02 22:01:42,668-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+2022-03-02 22:01:42,682-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+2022-03-02 22:01:42,682-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+2022-03-02 22:01:42,682-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+2022-03-02 22:01:42,682-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+2022-03-02 22:01:42,682-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+2022-03-02 22:01:42,682-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,818-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,839-INFO-my_log.py-hhj-日志信息：在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,961-INFO-my_log.py-hhj-日志信息：登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:42,970-INFO-my_log.py-hhj-日志信息：登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,035-ERROR-my_log.py-hhj-日志信息：****正常用例——正常登录，断言失败！！！****
+Traceback (most recent call last):
+  File "D:\JetBrains\PyCharm\PycharmProjects\Web_Framework_V2\TestCases\Test0LoginCases\test_00_login.py", line 98, in test_login_1_success
+    assert False
+AssertionError: assert False
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:43,956-INFO-my_log.py-hhj-日志信息：====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====
+2022-03-02 22:01:44,358-INFO-my_log.py-hhj-日志信息：====所有用例的后置操作：关闭浏览器会话，清理环境(teardown)====

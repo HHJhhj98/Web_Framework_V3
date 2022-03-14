@@ -1,0 +1,115 @@
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：用例开始执行(setUP)====
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——正常投资****
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_获取用户余额等待元素('xpath', '//input[contains(@placeholder,"可用余额:")]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//input[contains(@placeholder,"可用余额:")]')元素等待结束，等待时长为：0:00:00.011379毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_获取用户余额查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_获取用户余额中获取('xpath', '//input[contains(@placeholder,"可用余额:")]')元素_data-amount的属性值
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作等待元素('css selector', '.pd-right>button')可见
+[32mINFO    [0m hhj:my_log.py:39 ('css selector', '.pd-right>button')元素等待结束，等待时长为：0:00:00.010241毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作_('xpath', '//input[contains(@placeholder,"可用余额:")]')元素中输入文本：100.00
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作中查看('css selector', '.pd-right>button')元素的点击状态
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作_点击元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资成功的提示框_点击查看激活等待元素('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')可见
+[1m[31mERROR   [0m hhj:my_log.py:47 标详情页面_投资成功的提示框_点击查看激活等待元素('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')可见失败！！！
+Traceback (most recent call last):
+  File "D:\Develop\JetBrains\PyCharm\PycharmProjects\Web_Framework_V3\Common\base_page.py", line 36, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\develop\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 89, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003C9943+2595139]
+	Ordinal0 [0x0035C9F1+2148849]
+	Ordinal0 [0x00254528+1066280]
+	Ordinal0 [0x00280FD4+1249236]
+	Ordinal0 [0x002811CB+1249739]
+	Ordinal0 [0x002AD812+1431570]
+	Ordinal0 [0x0029BA34+1358388]
+	Ordinal0 [0x002ABAF2+1424114]
+	Ordinal0 [0x0029B806+1357830]
+	Ordinal0 [0x00276086+1204358]
+	Ordinal0 [0x00276F96+1208214]
+	GetHandleVerifier [0x0056B232+1658114]
+	GetHandleVerifier [0x0062312C+2411516]
+	GetHandleVerifier [0x0045F261+560433]
+	GetHandleVerifier [0x0045E366+556598]
+	Ordinal0 [0x0036286B+2173035]
+	Ordinal0 [0x003675F8+2192888]
+	Ordinal0 [0x003676E5+2193125]
+	Ordinal0 [0x003711FC+2232828]
+	BaseThreadInitThunk [0x77036739+25]
+	RtlGetFullPathName_UEx [0x776D8E7F+1215]
+	RtlGetFullPathName_UEx [0x776D8E4D+1165]
+
+[32mINFO    [0m hhj:my_log.py:39 截取网页成功，文件路径为：D:\Develop\JetBrains\PyCharm\PycharmProjects\Web_Framework_V3\TestResult\2022-03-14 12-52-56\ScreenShots\标详情页面_投资成功的提示框_点击查看激活_2022-03-14 12-54-49.png
+[32mINFO    [0m hhj:my_log.py:39 allure截取网页成功，文件路径为：标详情页面_投资成功的提示框_点击查看激活
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：用例执行完毕，刷新界面(teardown)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的前置操作：初始化浏览器对话，登录前程贷系统(setUpClass)====
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能等待元素('xpath', '//button[text()="登录"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.015001毫秒
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：17307428595
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+[32mINFO    [0m hhj:my_log.py:39 首页_选第一个标等待元素('xpath', '//a[text()="抢投标"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//a[text()="抢投标"]')元素等待结束，等待时长为：0:00:00.657623毫秒
+[32mINFO    [0m hhj:my_log.py:39 首页_选第一个标查找多个元素：('xpath', '//a[text()="抢投标"]')
+[32mINFO    [0m hhj:my_log.py:39 首页_选第一个标_点击元素：('xpath', '//a[text()="抢投标"]')
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的前置操作：用例开始执行(setUP)====
+[32mINFO    [0m hhj:my_log.py:39 ****正常用例——正常投资****
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_获取用户余额等待元素('xpath', '//input[contains(@placeholder,"可用余额:")]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//input[contains(@placeholder,"可用余额:")]')元素等待结束，等待时长为：0:00:00.009000毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_获取用户余额查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_获取用户余额中获取('xpath', '//input[contains(@placeholder,"可用余额:")]')元素_data-amount的属性值
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作等待元素('css selector', '.pd-right>button')可见
+[32mINFO    [0m hhj:my_log.py:39 ('css selector', '.pd-right>button')元素等待结束，等待时长为：0:00:00.015624毫秒
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('xpath', '//input[contains(@placeholder,"可用余额:")]')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作_('xpath', '//input[contains(@placeholder,"可用余额:")]')元素中输入文本：100.00
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 在标详情页面_投资操作中查看('css selector', '.pd-right>button')元素的点击状态
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作查找元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资操作_点击元素：('css selector', '.pd-right>button')
+[32mINFO    [0m hhj:my_log.py:39 标详情页面_投资成功的提示框_点击查看激活等待元素('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')可见
+[1m[31mERROR   [0m hhj:my_log.py:47 标详情页面_投资成功的提示框_点击查看激活等待元素('css selector', '.layui-layer-content>.capital_ts>.capital_btn>button')可见失败！！！
+Traceback (most recent call last):
+  File "D:\Develop\JetBrains\PyCharm\PycharmProjects\Web_Framework_V3\Common\base_page.py", line 36, in wait_ele_Visible
+    WebDriverWait(self.driver, times, poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "d:\develop\python\python38\lib\site-packages\selenium\webdriver\support\wait.py", line 89, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003C9943+2595139]
+	Ordinal0 [0x0035C9F1+2148849]
+	Ordinal0 [0x00254528+1066280]
+	Ordinal0 [0x00280FD4+1249236]
+	Ordinal0 [0x002811CB+1249739]
+	Ordinal0 [0x002AD812+1431570]
+	Ordinal0 [0x0029BA34+1358388]
+	Ordinal0 [0x002ABAF2+1424114]
+	Ordinal0 [0x0029B806+1357830]
+	Ordinal0 [0x00276086+1204358]
+	Ordinal0 [0x00276F96+1208214]
+	GetHandleVerifier [0x0056B232+1658114]
+	GetHandleVerifier [0x0062312C+2411516]
+	GetHandleVerifier [0x0045F261+560433]
+	GetHandleVerifier [0x0045E366+556598]
+	Ordinal0 [0x0036286B+2173035]
+	Ordinal0 [0x003675F8+2192888]
+	Ordinal0 [0x003676E5+2193125]
+	Ordinal0 [0x003711FC+2232828]
+	BaseThreadInitThunk [0x77036739+25]
+	RtlGetFullPathName_UEx [0x776D8E7F+1215]
+	RtlGetFullPathName_UEx [0x776D8E4D+1165]
+
+[32mINFO    [0m hhj:my_log.py:39 截取网页成功，文件路径为：D:\Develop\JetBrains\PyCharm\PycharmProjects\Web_Framework_V3\TestResult\2022-03-14 12-52-56\ScreenShots\标详情页面_投资成功的提示框_点击查看激活_2022-03-14 12-55-20.png
+[32mINFO    [0m hhj:my_log.py:39 allure截取网页成功，文件路径为：标详情页面_投资成功的提示框_点击查看激活
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：用例执行完毕，刷新界面(teardown)====
+[32mINFO    [0m hhj:my_log.py:39 ====所有用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====

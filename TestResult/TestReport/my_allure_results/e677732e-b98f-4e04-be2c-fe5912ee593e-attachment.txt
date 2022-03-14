@@ -1,0 +1,14 @@
+[32mINFO    [0m hhj:my_log.py:39 ****异常用例——异常用例-手机号为空****
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能等待元素('xpath', '//button[text()="登录"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//button[text()="登录"]')元素等待结束，等待时长为：0:00:00.026783毫秒
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//input[@name="phone"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_登录功能_('xpath', '//input[@name="phone"]')元素中输入文本：
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//input[@name="password"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_登录功能_('xpath', '//input[@name="password"]')元素中输入文本：test123456
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能查找元素：('xpath', '//button[text()="登录"]')
+[32mINFO    [0m hhj:my_log.py:39 登录页面_登录功能_点击元素：('xpath', '//button[text()="登录"]')
+[32mINFO    [0m hhj:my_log.py:39 登录页面_获取登录区域错误提示信息等待元素('xpath', '//div[@class="form-error-info"]')可见
+[32mINFO    [0m hhj:my_log.py:39 ('xpath', '//div[@class="form-error-info"]')元素等待结束，等待时长为：0:00:00.029264毫秒
+[32mINFO    [0m hhj:my_log.py:39 登录页面_获取登录区域错误提示信息查找元素：('xpath', '//div[@class="form-error-info"]')
+[32mINFO    [0m hhj:my_log.py:39 在登录页面_获取登录区域错误提示信息中获取('xpath', '//div[@class="form-error-info"]')元素的文本
+[32mINFO    [0m hhj:my_log.py:39 ====每条用例的后置操作：关闭浏览器会话，清理环境(teardownClass)====
